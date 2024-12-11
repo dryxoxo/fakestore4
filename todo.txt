@@ -1,0 +1,19 @@
+=====================================================================================
+Apa yang sudah dilakukan?
+6 Desember 2024
+    - Slicing sudah semuanya
+
+=====================================================================================
+Apa yang harus dilakukan?
+- Lakukan routing dinamis untuk mendapatkan detail data pada suatu produk
+- Konsumsi API Fakestore dengan menggunakan AXIOS
+- Gunakan redux-toolkit untuk global state
+
+=====================================================================================
+Apa yang kamu pelajari hari ini?
+
+6 Desember 2024
+    - Berhasil melakukan local development baik menggunakan react native maupun menggunakan expo
+    jangan lupa untuk setup environtmen di admin karena ini hal penting kalau ingin melakukan local development
+        -> JDK (Java, dan jangan lupa setting environtmentnya untuk JAVA_HOME)
+        -> SDK (Android studio, jangan lupa untuk setup platform-tools dan juga android_home)
